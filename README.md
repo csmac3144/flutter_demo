@@ -6,3 +6,4 @@ Demo showing CI, CD, testing
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+CI, CD, testing setup for flutter
